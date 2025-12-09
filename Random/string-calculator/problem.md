@@ -1,12 +1,12 @@
-# 💻 String Calculator: Problema de Algoritmos
+# 💻 String Calculator: Algorithm Problem
 
-## 📝 Descripción del Problema
+## 📝 Problem Description
 
-Escribe una calculadora que reciba una cadena (String) con un formato como `"123+123-123"`, y calcule el resultado como un entero (`int`).
+Write a calculator that receives a string with a format like `"123+123-123"`, and calculates the result as an integer (`int`).
 
-### Notas Importantes
+### Important Notes
 
-* Podemos asumir que la entrada es  **100% correcta** .
-* No hay  **espacios en blanco** .
-* Solo calcularemos las operaciones de **suma (`+`)** y  **resta (`-`)** .
-* Todos los números son  **enteros** .
+* We can assume the input is **100% correct**.
+* There are **no whitespaces**.
+* We will only calculate **addition (`+`)** and **subtraction (`-`)** operations.
+* All numbers are **integers**.

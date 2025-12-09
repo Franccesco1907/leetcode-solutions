@@ -1,16 +1,16 @@
 # 🎱 The Maze (Ball & Maze)
 
-> **Dificultad:** Medium
-> **Tópico:** Graph, BFS, DFS
-> **Patrón:** Matrix Traversal
+> **Difficulty:** Medium
+> **Topic:** Graph, BFS, DFS
+> **Pattern:** Matrix Traversal
 
-## 📜 Descripción del Problema
+## 📜 Problem Description
 
-Se tiene un laberinto representado por una matriz de espacios vacíos (`0`) y paredes (`1`). Hay una bola en el laberinto que puede moverse hacia **arriba**, **abajo**, **izquierda** o **derecha**.
+There is a maze represented by a matrix of empty spaces (`0`) and walls (`1`). There is a ball in the maze that can move **up**, **down**, **left**, or **right**.
 
-⚠️ **Regla Clave:** La bola **no dejará de rodar** hasta chocar contra una pared. Una vez que se detiene, puede elegir la siguiente dirección.
+⚠️ **Key Rule:** The ball **will not stop rolling** until it hits a wall. Once it stops, it can choose the next direction.
 
-Dada la matriz `maze`, la posición de inicio `start` y el destino `destination`, la función debe retornar `true` si la bola puede detenerse en el destino, de lo contrario `false`.
+Given the matrix `maze`, the start position `start`, and the destination `destination`, the function must return `true` if the ball can stop at the destination, otherwise `false`.
 
 ### Input / Output
 
