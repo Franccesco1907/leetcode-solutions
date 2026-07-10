@@ -20,6 +20,7 @@ Each problem lives in its own directory with:
 |---|---------|----------|
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Medium/0049-group-anagrams](Medium/0049-group-anagrams/solution.ts) |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/) | [Medium/0490-the-maze](Medium/0490-the-maze/solution.ts) |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Medium/0347-top-k-frequent-elements](Medium/0347-top-k-frequent-elements/solution.ts) |
 
 ## Other Practice Problems
 
