@@ -13,7 +13,6 @@ Each problem lives in its own directory with:
 |---|---------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Easy/0001-two-sum](Easy/0001-two-sum/solution.ts) |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Easy/0415-add-strings](Easy/0415-add-strings/solution.ts) |
-
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Easy/0009-palindrome-number](Easy/0009-palindrome-number/solution.ts) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Easy/0020-valid-parentheses](Easy/0020-valid-parentheses/solution.ts) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Easy/0070-climbing-stairs](Easy/0070-climbing-stairs/solution.ts) |
@@ -27,7 +26,6 @@ Each problem lives in its own directory with:
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Medium/0049-group-anagrams](Medium/0049-group-anagrams/solution.ts) |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/) | [Medium/0490-the-maze](Medium/0490-the-maze/solution.ts) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Medium/0347-top-k-frequent-elements](Medium/0347-top-k-frequent-elements/solution.ts) |
-
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Medium/0002-add-two-numbers](Medium/0002-add-two-numbers/solution.ts) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Medium/0003-longest-substring-without-repeating-characters](Medium/0003-longest-substring-without-repeating-characters/solution.ts) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Medium/0033-search-in-rotated-sorted-array](Medium/0033-search-in-rotated-sorted-array/solution.ts) |
